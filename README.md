@@ -1,9 +1,8 @@
 ### Hi there! I am Ricky Peng! 👋
 
-Short bio - I'm a senior CS student at UIUC. I am interested in any kinds of application development and is particularly into Javascript (Welp sounds like just another frontend guy) :((
+Short bio - I'm a senior CS student at UIUC. I am interested in all kinds of application development and is particularly into Javascript (Welp sounds like just another frontend guy) :((
 
 - 🔭 I’m currently working on [ygo_web](https://github.com/rickypeng99/yugioh_web). Basically it's a yugioh simulator written in Javascript! But don't expect to have your decks supported since I rewrote the core logics, which means that I will have to rewrite the card scripts as well :((
-- 📫 How to reach me: rickypeng99@gmail.com or ruiqip2@illinois.edu! Whichever you prefer..
 - ⚡ Fun fact: I love my life.
 
 [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickypeng99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
