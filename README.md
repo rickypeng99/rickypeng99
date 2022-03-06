@@ -1,10 +1,10 @@
 ### Hi there! I am Ricky Peng! 👋
 
-- ⚡ Fun fact: I love my life.
+- ⚡ Fun fact: I am not funny.
 
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickypeng99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickypeng99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypeng99&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypeng99&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
